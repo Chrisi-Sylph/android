@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="ssh://git@github.com:LineageOS"
+           fetch="ssh://git@github.com"
            review="review.lineageos.org" />
 
   <remote  name="private"
