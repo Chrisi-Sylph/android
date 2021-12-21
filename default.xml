@@ -507,5 +507,6 @@
 
   <include name="snippets/cm.xml" />
   <include name="snippets/hllte.xml" />
+  <include name="snippets/twrp.xml" />
 
 </manifest>

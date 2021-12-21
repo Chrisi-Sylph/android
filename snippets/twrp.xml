@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="TeamWin/android_bootable_recovery"      	        path="bootable/recovery-twrp"			remote="private" revision="android-7.1" />
+
+</manifest>
